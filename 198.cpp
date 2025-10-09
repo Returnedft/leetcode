@@ -1,4 +1,4 @@
-// House Robber
+// House Robber # MEDIUM
 
 #include <iostream>
 #include <math.h>

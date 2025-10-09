@@ -1,4 +1,4 @@
-// Percentage of letter in string
+// Percentage of letter in string # EASY
 
 #include <iostream>
 #include <cmath>

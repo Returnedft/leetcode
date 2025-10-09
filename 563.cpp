@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 
-// Binary Tilt
+// Binary Tilt # EASY
 
  struct TreeNode {
      int val;

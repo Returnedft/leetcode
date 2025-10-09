@@ -2,6 +2,8 @@
     "files.associations": {
         "*.dbclient-js": "javascript",
         "*.embeddedhtml": "html",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
     }
 }

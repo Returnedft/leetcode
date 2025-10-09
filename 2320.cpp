@@ -1,4 +1,4 @@
-// Ways to place houses
+// Ways to place houses # MEDIUM
 
 #include <vector>
 #include <iostream>
